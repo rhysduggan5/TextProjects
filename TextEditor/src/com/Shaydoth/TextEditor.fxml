@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/11.0.2" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.Shaydoth.TextEditor">
+   <children>
+      <Button layoutX="14.0" layoutY="14.0" mnemonicParsing="false" text="Open File" />
+      <Button layoutX="87.0" layoutY="14.0" mnemonicParsing="false" text="Save" />
+      <TextArea layoutX="14.0" layoutY="45.0" prefHeight="335.0" prefWidth="572.0" AnchorPane.bottomAnchor="14.0" AnchorPane.leftAnchor="14.0" AnchorPane.rightAnchor="14.0" />
+   </children>
+</AnchorPane>
